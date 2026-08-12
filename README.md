@@ -27,9 +27,9 @@ PPTX Generate 使用：
 
 ## 从 GitHub 安装
 
-Codex Desktop用户请在'插件-添加插件市场-来源'位置填写本项目地址以安装:
+Codex APP用户请在'插件-添加插件市场-来源'位置填写本项目地址以安装:
 ```
-https://github.com/Fishquito7/Project_ppt-generate-marketplace
+https://github.com/Fishquito7/ppt-generate
 ```
 
 Codex CLI用户运行：
